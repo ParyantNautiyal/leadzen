@@ -1,0 +1,23 @@
+.app {
+  padding: 30px;
+  background-color: floralwhite;
+  display: flex;
+  padding: 11px;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+
+}
+
+.container {
+  border: 3px solid #4d4d4e;
+  padding: 5px;
+  border-radius: 5px;
+  overflow: scroll;
+  height: 420px;
+  max-height: 420px;
+}
